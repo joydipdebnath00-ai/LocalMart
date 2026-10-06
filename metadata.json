@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse Super Admin & Multi-Vendor Mobile Platform",
+  "description": "Complete enterprise platform control panel and multi-vendor mobile marketplace with full Super Admin oversight, real-time analytics, shop approval, delivery logistics, orders, and payment reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
